@@ -98,4 +98,5 @@ static function calcBirthNumber($year, $month, $day){
 ## メモ
 
 - PHPやLaravelの不明点はGoogle 検索やChatGPTなどで調べながら進めましょう。調べることも大切なスキルの一つです。
-
+- プログラムやファイル名等で使用する名前の英訳はChtGPT に尋ねるとよいでしょう。以下はその例です。
+  - ![ChatGPTに英語名を尋ねる](https://i.gyazo.com/56e96cce106891c8ce870b8d864a8d99.png)
